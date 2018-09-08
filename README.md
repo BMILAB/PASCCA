@@ -65,8 +65,8 @@ gene_dist <- PASCCA(pre_data, alpha = 0.05,
                     repli=sample_replicates,
                     tissues=length(unique(sample_name)),
                     tiss=sum(sample_replicates==sample_replicates[1]))
- #or
- gene_dist <- PASCCA(pre_data, alpha = 0.05,repli=c(rep(3,14)), tissues=14, tiss=14)
+#or
+gene_dist <- PASCCA(pre_data, alpha = 0.05,repli=c(rep(3,14)), tissues=14, tiss=14)
 ```
 
 Section 3 Clustering analysis
