@@ -7,7 +7,7 @@ About
 ====================
 The package PASCCA is an easy-to-use R package for analyses of APA related gene expression, including the characterization of poly(A) sites, quantification of association between genes with/without repeated measurements, clustering of APA-related genes to infer significant APA specific gene modules, and the evaluation of clustering performance with a variety of indexes. By providing a better treatment of the noise inherent in repeated measurements and taking into account multiple layers of poly(A) site data, PASCCA could be a general tool for clustering and analyzing APA-specific gene expression data.
 
-Installing AStrap
+Installing PASCCA
 =============
 Mandatory 
 ---------
@@ -28,7 +28,7 @@ install_github("BMILAB/PASCCA")
 library(PASCCA)
 ```
 
-Using AStrap
+Using PASCCA
 =============
 In order to facilitate user understanding, we use the provided example dataset to illustrate the standard analysis work-flow of PASCCA. Please refer to the [User Guide](https://github.com/BMILAB/PASCCA/tree/master/doc) for full details.
 
