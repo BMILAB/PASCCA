@@ -1,0 +1,25 @@
+Package: PASCCA
+Type: Package
+Title: Cluster analysis of replicated alternative polyadenylation data 
+		using shrinkage canonical correlation analysis
+Version: 0.1.0
+Date: 2018-09-07
+Authors@R: c(
+    person("Yuqi", "Long", , "573355254@qq.com", c("aut", "cre")),
+    person("Wenbin", "Ye", , "nikou123456@163.com", "aut")
+    )
+Maintainer: Wenbin Ye <nikou123456@163.com>
+Description: PASCCA is an easy-to-use R package for analyses of APA 
+		related gene expression, including the characterization of poly(A)
+		sites, quantification of association between genes with/without 
+		repeated measurements, clustering of APA-related genes to infer
+		significant APA specific gene modules, and the evaluation of 
+		clustering performance with a variety of indexes.
+License: GPL (>= 2)
+URL: https://github.com/BMILAB/PASCCA
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.1.0), plyr, parallel
+NeedsCompilation: no
+Packaged: 2018-09-07 20:20:30 UTC; Administrator
+RoxygenNote: 6.1.0
