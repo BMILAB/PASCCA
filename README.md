@@ -5,7 +5,7 @@ Cluster analysis of replicated alternative polyadenylation data using shrinkage 
 
 About
 ====================
-The package PASCCA is an easy-to-use R package for analyses of APA related gene expression, including the characterization of poly(A) sites, quantification of association between genes with/without repeated measurements, clustering of APA-related genes to infer significant APA specific gene modules, and the evaluation of clustering performance with a variety of indexes. By providing a better treatment of the noise inherent in repeated measurements and taking into account multiple layers of poly(A) site data, PASCCA could be a general tool for clustering and analyzing APA-specific gene expression data. In addition, users can download poly(A) site data sets in the [link](https://github.com/BMILAB/Synthetic-PolyA-Site-Data). 
+The package PASCCA is an easy-to-use R package for analyses of APA related gene expression, including the characterization of poly(A) sites, quantification of association between genes with/without repeated measurements, clustering of APA-related genes to infer significant APA specific gene modules, and the evaluation of clustering performance with a variety of indexes. By providing a better treatment of the noise inherent in repeated measurements and taking into account multiple layers of poly(A) site data, PASCCA could be a general tool for clustering and analyzing APA-specific gene expression data. For the convenience of users, we provide synthetic [poly(A) site data sets](https://github.com/BMILAB/Synthetic-PolyA-Site-Data). 
 
 Installing PASCCA
 =============
