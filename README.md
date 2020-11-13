@@ -79,4 +79,4 @@ gene_cluster <- PASCCluster(gene_dist,nc=5,plot = TRUE)
 
 Citation
 ---------
-If you are using PASCCA, please cite: [Ye W, Long Y, Ji G, Su Y, Ye P, Fu H and Wu X (2019) Cluster analysis of replicated alternative polyadenylation data using canonical correlation analysis, BMC Genomics, 20, 1-15.](https://pubmed.ncbi.nlm.nih.gov/30669970/)
+If you are using PASCCA, please cite: [Ye W#, Long Y#, Ji G, Su Y, Ye P, Fu H and Wu X* (2019) Cluster analysis of replicated alternative polyadenylation data using canonical correlation analysis, BMC Genomics, 20, 1-15.](https://pubmed.ncbi.nlm.nih.gov/30669970/)
